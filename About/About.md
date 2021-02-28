@@ -6,5 +6,4 @@ title: "About"
 permalink: /about/
 ---
 
-```markdown
-```
+
