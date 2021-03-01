@@ -6,7 +6,7 @@ permalink: /about/
 
 <head>About me</head>
 
-<div>
+<div align = "center" style = "font-weight = bold;">
 About me!
 </div>
 
