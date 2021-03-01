@@ -4,8 +4,10 @@ title: "About"
 permalink: /about/
 ...
 
-<header>About me</header>
+<head>About me</head>
 
-# About me!
+<div>
+About me!
+</div>
 
 I am a student at the University of Waterloo currently in my 3rd year. This website is being built to develop and display my coding skills.
