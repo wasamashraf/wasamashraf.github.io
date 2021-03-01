@@ -4,12 +4,13 @@ title: "About"
 permalink: /about/
 ...
 
+<head>
 <style>
 #body {background-color: powder-blue;
        text-align: center;}
 </style>
-
-<head><title>About me</title></head>
+<title>About me</title>
+</head>
 
 <div align = "center" style = "font-weight = bold;">
   <h1>About me!</h1>
