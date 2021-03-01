@@ -6,7 +6,7 @@ permalink: /about/
 
 <head>
 <style>
-#body {background-color: powder-blue;
+#body {background-color: powderblue;
        text-align: center;}
 </style>
 <title>About me</title>
