@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ...
 
-<head>About me</head>
+<head><title>About me</title></head>
 
 <div align = "center" style = "font-weight = bold;">
   <h1>About me!</h1>
