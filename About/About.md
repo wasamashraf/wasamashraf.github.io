@@ -6,7 +6,7 @@ permalink: /about/
 
 <style>
 #body {background-color: powder-blue;
-       text-align: center}
+       text-align: center;}
 </style>
 
 <head><title>About me</title></head>
@@ -17,4 +17,4 @@ permalink: /about/
 
 <body>
 <p id = "#body">I am a student at the University of Waterloo currently in my 3rd year. This website is being built to develop and display my coding skills.</p>
-</body
+</body>
